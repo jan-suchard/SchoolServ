@@ -20,3 +20,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Builds
 Sorry, we haven't at time any builds.
+
+## More infos 
+Visit our Website: http://appentwicklunggs.wix.com/schoolserv
